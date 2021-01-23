@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MyBatisCodeHelperDatasource">
+    <option name="projectProfile">
+      <ProjectProfile>
+        <option name="genJavaMapperPath" value="$PROJECT_DIR$/src/main/java/entity" />
+        <option name="genMapperXmlPath" value="$PROJECT_DIR$/src/main/java/mapping" />
+        <option name="javaToCrudShouldGenerateService" value="false" />
+        <option name="javaToCrudShouldGenerateServiceInterface" value="false" />
+        <option name="javaToCurdShouldGenerateSql" value="false" />
+      </ProjectProfile>
+    </option>
+  </component>
+</project>
